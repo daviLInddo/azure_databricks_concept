@@ -30,13 +30,9 @@ O Azure Databricks possui um grande potencial para análises avançadas de dados
 - **Implementar IA generativa** para personalização e recomendação de produtos.
 - **Otimizar análises de grandes volumes de dados** com arquiteturas de lakehouse.
 
-## Prints do processo
+## Print do processo
 
-![Print 1](link_do_print_1)  
-*Exemplo de interface do Azure Databricks com análise de dados em tempo real.*
-
-![Print 2](link_do_print_2)  
-*Print de criação de um modelo preditivo utilizando Azure Databricks.*
+![Image](https://github.com/user-attachments/assets/a2fc16cc-6b44-4ace-8bbd-66d4b9e4b3d3)
 
 ## Conclusão
 
